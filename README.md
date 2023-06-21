@@ -1,0 +1,2 @@
+# cykid
+a gomoku ai
