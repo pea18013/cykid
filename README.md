@@ -1,2 +1,2 @@
 # cykid
-a gomoku ai
+an unfinish gomoku ai
